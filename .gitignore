@@ -18,3 +18,5 @@
 # Misc
 .DS_Store
 .vscode/
+
+yarn.lock
